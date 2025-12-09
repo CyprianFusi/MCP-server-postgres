@@ -9,7 +9,7 @@
 
 An MCP (Model Context Protocol) server that provides access to PostgreSQL databases through resources, tools, and prompts for data analysis.
 
-# Demo
+# Screenshoots
 ![MCP Demo](assets/ui_1.png)
 ![MCP Demo](assets/ui_2.png)
 ![MCP Demo](assets/ui_3.png)
